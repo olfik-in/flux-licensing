@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "licenseId": "LIC-2026-FLUX-8CB0054C",
+  "productId": "olfik-flux",
+  "issuedAt": "2026-09-03T16:07:42.290Z",
+  "kid": "flux-rsa-2026-v1",
+  "kdf": {
+    "algorithm": "argon2id",
+    "params": {
+      "iterations": 3,
+      "memorySize": 65536,
+      "parallelism": 1,
+      "keyLength": 32
+    },
+    "salt": "NYMDFcMLFxOg8IpPqfkb7w=="
+  },
+  "encryption": {
+    "algorithm": "aes-256-gcm",
+    "iv": "x6stevP1gtfx48FM",
+    "tag": "3EphgykTo+6/1OqI/qw2+w=="
+  },
+  "ciphertext": "374vD3+zQtWIwOBfRSb4WWaen44w3tHnMvEFHHvHmeJTW6aOJC5hd7NXxuhSk0cX92gVYTrwp56ZGXcq0J4ZAhTrBJZ9ZoWw2moTF4XIcxyuQ3fT+hpVUzyvCDVd7A0c9iETpJeF/3hU6I6aYJ2FKeDeR0bE6jLVDm0Ag4w1BEfickbYtJ+JvMfHCxBkjVofSnSuuJ+w/CG3zcjU54jNueI1R+WQI0ig22o2xX4wr6ttVm3QNxt6rKhP5vYLvwQ91qfk69xknMhqhY6+G64Ocr+uZ2prRwBtdVvUTr472MlYqrGI50W4ERK2/85kcJohf8GRIG/x9kbXxjKziSfZt0SQ9OImN6XFxQwHx05apkXgda9acZD039o5T4WW00fXdgVeDcNQec3t+1Sbe8DT9ojQUPgwBiQAgij0DOTV9wBwUSK1tG2dIg8vCwmrn09tB30wvxwc5a4ABVuzw9g8XDyz6ZlGD5l3aXQft4jSelYUdUXui3EJMc73nJsp8hwueEPIDRt+CjmvboW5ANrF7GL/vGj/vQPM5DsbRz9+HuwvlgOrfAXS+9qtbwwM4/b/r4sqaVmI8lym8POx9chgl3aQxAmzJhqYrga+9/UZ5uLSE1JrHypUS0OXiq5RNrdsHyZwTtCjAkdxct5DfDVJhccOf5zUJD2sHHO8Bi22EKwS0J/MyQmXCRxyQjejInW9UqRQHE4ZWqPIE6slwIifidM4awC9p9jae2/O2mUiJ+ybzIHC8rQwcsTBEKT0PmxWEIbcKjsTZ3HQJNKjhgImMab1aFUzuovmnIXfkp90QMLjLRDwkFwuiUargMKwleAXYA4uQsNb6alrY9A=",
+  "signature": "myrZm2fbjku/SF6UTnwNit22j4AMOkVgrxrGj9LfpRu4AgiOUzv9HwmfRC3cAdT4eDDX20TfYkdid22zXkesZPsQZxlTXkrwujR0tEDcjlZvpD1irVWswDd7lGTJo1/5Hq7AfKI0hpX3AWVa/7DwlAqBfEI+l/Spc2lxtfPHzygI0qs3VZZ/lo/8MN0rZa6CHRW1AoI4XgwYo+liiEwz953D7qw6SbnaM6FOewABF1b3Y6VJpkWpjLySfIl1N0cAmB3+Oi6bYy+iTBiF6LcinY+LkQA7QQO+dyRn2pwI0zBisULqtrdbCX93oijVVbPgJdrrR1ZXCOseouYxr7TAd7DtEuSxCHHp+brCAQp3KsC4pNv7lteKvE+P2EsWQP2hf5ssGeyTF0FFEhpWdwPsXpUKZToUOVS16sPm4+clVDGS9Q/w0TZOCawuzbe5k/1UqH3Ddhh/dNbq1z9Ty4OmZHIgUt5u62qTKLVUFGVL7LdM7u7MdpngZFaEAzl7SWFdLXh5a6pm7vdz5kYMuby2XFjLJyctFOB2DQahloERGaGq40Q0A1qXBCcjO/EUghp1lptTla4c8FbK/+v3AyiAihrLJjKIWGjiZjM45F9aw6Y9HzK2XepsB2ZNQG7aUptTp2QAlmtJBoxVspBs1b51IttMgvxF0LNBS6uQWa1LveI="
+}
