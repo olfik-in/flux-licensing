@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "licenseId": "LIC-2026-FLUX-B0074EBE",
+  "productId": "olfik-flux",
+  "issuedAt": "2026-09-04T05:17:34.392Z",
+  "kid": "flux-rsa-2026-v1",
+  "kdf": {
+    "algorithm": "argon2id",
+    "params": {
+      "iterations": 3,
+      "memorySize": 65536,
+      "parallelism": 1,
+      "keyLength": 32
+    },
+    "salt": "SYgdDmyZZDwqzW2irubVPg=="
+  },
+  "encryption": {
+    "algorithm": "aes-256-gcm",
+    "iv": "e+UcD7qbg9ee8M3K",
+    "tag": "1QDsoNBJBvwez5LKvNp2Zg=="
+  },
+  "ciphertext": "A8lFh8ndiBJHG2+UiyLenYY0bVLmAtcoqxVkI6UT4k3CUkmUxiGewDAoIhiTnUuuwrcmuHQ4Ts/Vue6fMszvkcpSxeSu7TIG3k5eXf5+az7JItu6yjUg51dbrfFnCThuiO2MZTQ7aL89HVoLb8O/QJoqo/RsfgcaEsZiIlLShZeDAm9fkvXkaPzql251ZgGECaBFLdgmuD6YdEm9sdLJEq8nX2MUyKnSsPgBp8qaakoDwLjOXNFyEovtR6Ug9v8XyrYGhl/aygtUJUY/IXVhMzZtaVtdu+aMrDv0n8H6urHVBtjzTqdiwpZx3WxqI/eu1UD5QvPpRnZTwuPfKZk+sH41moETfcquNbss0mW63IA+2Sr47y7LQbTwZMpkvEmKTlGawRWjRgReGZaM8VsvXDzQOvy7S/q/USgFOc2lUh+O9ZX8zU7yzxQvSS9O7m11lC3Nx07NtoYmwLerrX1AGZZskOHVMys4lrj4K40qtziPtC88lSf9fY720tgVVXDnTDHS7f7fghZriUGf9AU+1OL23EhTtzk4g/sEaJkYX/WUSVPrI1tnwmYlTpahogShL3/vmBjQwFadRHnn61tWFHyHmGw/zYCoZkSJucDrKFBATi47971DbtfDe54QK03WzgxaTNw9vsw9fNMzYjDK4V8Yw02XvhZsMf5zcJqwDRq9EPzXegYneNFtij4Lk+TqXjepiPYpVqP/wUvwh7FD9ieqSvqnaiW9XqEp8hoUUI6aSffTqq+UOX/7e4G0xzJxAX3RPjQ2kagwkwldaaQbtT9L53/Y4SX20athAWAcvWXO6WLF8zYI93noKJAop8A/cAhVgJpQUpue4BVy",
+  "signature": "DytJG0DOnR1r30KrFaZ5hJgoUisZwWKGdr2lY9cQqrNxl3T9imvq2V0hf1xfJG0n8VAUptSkjgqcFaQWcSf36erSTuLiFamq4ZUerjNGokX+/pfuzzi6owBb+OjZTe4ls7b3bqNcsWTEdJ1lRx0/z6cKry/MV/zXzhd2EC9CflSxjdZOk6blYuR3aVeWYYbyKwANeveXLaDfsk2Q1yrhw1lj7SkMaE+lJv55grMFqxen2eEIge8GX9nVe6eh4yaqow0yYyDr1u+RL9jmsn8UosEZLjTylHqgqe7IYKIjQaxUeQe7VeZFxCHb36A/8jAz3lB+h7+QCfF+56QxK9MaYib5X/WoXIKRKG2s8PqHeiHm/XZKUZwO5CDszL7bdbSi9+oSA6txg5MFCAqLwYzoDD/CIwUzJJC+HMKgKB4vRvVaMYrNUGsuwvcsMc3mpvDZNIJFjBYCAzv44lQXCUJVTnJppv1nCvlrzGfhawNk7N/pfAjfIrN6QkYRs/0iUcZ5iM6eh2z2AuVdWQS0mjFKJ4SBbYpjGQfLwNge9Aey4ELy5tE7OrJJ9diSxFdfon0YEOei7Ri6fQv+jbpPWSzrKPNPQX8xbnDVvaHRNN8XOSk8/Mp7utSaROw1PHzu58R38hDS3REKmoalSXt4ZFSAXfDngoEWmdGZYdjGWsDNzac="
+}
