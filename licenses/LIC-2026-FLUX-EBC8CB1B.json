@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "licenseId": "LIC-2026-FLUX-EBC8CB1B",
+  "productId": "olfik-flux",
+  "issuedAt": "2026-09-06T17:43:29.283Z",
+  "kid": "flux-rsa-2026-v1",
+  "kdf": {
+    "algorithm": "argon2id",
+    "params": {
+      "iterations": 3,
+      "memorySize": 65536,
+      "parallelism": 1,
+      "keyLength": 32
+    },
+    "salt": "5aWfXZgAnivQc+/28x+46A=="
+  },
+  "encryption": {
+    "algorithm": "aes-256-gcm",
+    "iv": "63jgNcB/9TIMDPXQ",
+    "tag": "GTJsXMZJCoV0enzildwWlA=="
+  },
+  "ciphertext": "md3IE7w1XmQN47BqYrYdwSFPhvcN6TAFpfStswdGP2iIlcDndOo1tv2onMyrUPdeQpcw+Llg6i+0+/awPDGtU9oABSGsQcx3xg255Gn/s63msRS9te0Cf0BoQm5RcJMwGB0gwHWkMRBy9tmDheQrr0SsmlXGxz89WjDDyvgytyWU/3/piaMy2Sgb8xBR+4wMxx1BLfMJIQeQCF2Bg2iF8OiOpOJdLhdJRLCMYwuey0sXXoj79vQ9YYa1Nb6VxtLakiASnfFGVZsreAry9ARpKz66vTnEJScIeZ8kHmBP6rqO6+5PBZl87840tlzmaBAej7ImWvBd/UUFT8+yJi/lDuqCWH56ZaErZmHhFv+HiTpwnOUlgy/kJ572YGdoNBpgZXlXW09UsJXChyBMJ2Nw0ge92CKiOCURdGkOzX37rv3e3fi/8uq98DcNV6um5VVyNp1ukX1sK7BzMHT5gNjJ5MKYAkzz4rfXoqqiHABWB4EUAE231ihPxMnUHtxzT7Y1b2lXRsW9yuzGP0zv1XDqvfIqJoK554pIm16zkViHgmoaKdAAsOWkDm/hvALM67UyYcL+Xvme2H5bp7ccHF8CSnmfb73z5gQT1yHZl9dywTT5/0/FiMdabVww5pUPaJsWgWTja9swxtrS4rxAGUDnD4XzclLVGL0PtV4WCzkmRh/2F9O+HFIUGidK6O2G0k9Yqaxq3c1o9nDpOxTeFKbsWdRjC+JQiFt7ABYjSP6IiDoVB0iIPhQx6fnR9vuBdazIOCtmwhxJiGBRj5vx/HFqXYNiesun76ccmlndB/IBuoNEVqEgT7xrZZXFesHpA426vTYoRovQR0bm",
+  "signature": "PYaI/L5vcGyJkg+nKN1MEaPhn3NOJ6Sg+oFlqrVTdTtmpln/ov83QIzt2C7qRTBkAMXMY4B9SQBfND83UGtmdgL7b06v/qEyThFvWxtBSmsGPVbnGxVtXvuz5c8NtHhivDmqx6f3JZSmI/mrv46rWXwrRX7GCKeJlzyJshY7twArxJJe+sm/7vosClMyy/WLpWyE8x8oGXfG6VtypMwjZE/2/ikwosN51l+lfnHnPHY7wrU8W3O0uTNAcOgMVA6Ct3smj/gALZ8AaZmw0lPwDHGRJNPgi9gn43b6gYZmQ6RWEgAsMQni5FQL9mD5PzCGLD0RD/wJ9+KRyaNfb7SacCATumeUvfHcJVzgzEkU6Mov6+G36bAHW4jRQoFx/wuCrX8q1GrUnvJro1joLbikpHtSKTV09bv/SXfmIauT03whER+XwfdOgwNuKHBnP3nkfyIlkQh4mWuD6oP3uUGf79+vLYqh0OsRei6TIU5LslOevbvK2+16XAWj5YZUEOTK0ukhk2jZ0aaTE3DQk/oH/LvL/MheSg0RjvG+v04FbsqajZ42VYXufnBT2D3775mGif1usQ3TnJrazJOuX/9uULDtXGJEIjmBXt/TK01BpaREu4P+JCHTaLhdZzhHNpxr8GLtNjUq5+f8PwhAoV4zO9SWRQPIMfcv8zfVHDBKEl0="
+}
