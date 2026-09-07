@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "licenseId": "LIC-2026-FLUX-E7774756",
+  "productId": "olfik-flux",
+  "issuedAt": "2026-09-07T05:54:21.904Z",
+  "kid": "flux-rsa-2026-v1",
+  "kdf": {
+    "algorithm": "argon2id",
+    "params": {
+      "iterations": 3,
+      "memorySize": 65536,
+      "parallelism": 1,
+      "keyLength": 32
+    },
+    "salt": "qojm8jsnR/cM04uidHL6fg=="
+  },
+  "encryption": {
+    "algorithm": "aes-256-gcm",
+    "iv": "8B93m+7AixHok3cm",
+    "tag": "UYLdMtVyZNhjKAwtbehOXw=="
+  },
+  "ciphertext": "slIUwYr1A8WQ0tsUC9wIKwv4YVSTPNmfUcWrXCC10/hkcYa74haAb50ZgicIMsQ7FgBZq9f46Z3Swu+zTsG5ogdWesUhZBvdSw+8UEkbvKuzOg9YQbH6deB0oUXa7DNfeQxHVNF3oV6fOti1o54TEGqBvUWeenTVhsNsSv1GIq3SRMD9RuCqT5VijG0D4pSBt1qnvix4h6tV9b1szDi+tNrQUQ776zQ6MT3/5lou8ZPMl/LeMn2JogtOEKxH/hi8//uv4prrkNfq0Iuf7mbvxU3IvVlirisO2lciTgPCXl60L24PTQU4jwqJfX/+waw0R14XlpM8G71gGLEFkjAdQY2J1tJye0hQUBZo6rKG5GFU1QisQ0EbKXWg1nrhPmQQapnz+VuVFAsgImEgF80arFU2YoHtXKMTLEHrTzihYoJkyVN2qWwl4pJn6XTM9QedETj1NEt2Az4UvCOM5A4ulI0XjxU9qoBtb1ulipwFI5ZWpabHtl9tyGUFq/4+v+/7tfFiLslUUWsxwfCzKlPj0Bg6bARsalZJEP38zh8RvPRRSx6Mp5GXYyMqo29HmOpp/mk8LPs0aIRr8JKJFNJ2o9QCH/Bt41aWyVDVBKh0Z95UtEZQ+do3DgcM+aCPk1YPvn9iBM9mNcbAg7QFx2ntYbLoI4f1uXGU9SlsnEzP0K720DO5FCkrkWywjhGo+Y2MZj2G4/YMfMYkc4VQhq3FbriuCs/Aeif8TU260IlMS9D3g1+2Ba6tiM6FD++8GojFfbPs9LD/Ef78avF7cba4pKU3o6pL06fYJeWHfVxq95ngoJ7+VfQqg0Z2ekv9bwuaios4sB7oOhtqggG4qmxZcM/OepX/C4FrS7MCAgLHxBWCqaGx7yeGDXTxS8zprBOiIsGSjK/Uambu/Won8EaCMVjb1lo=",
+  "signature": "kOWF3/Z+X7vCT1SUEZ4ge622LE7k5tATCX6QTiYZc/BQxaVarg5QPa9mc4/FFzRVCfFgxMWcdu2x2eUfEDr34Y6YmkoeAGMJRNC9VSSAGK1+hkohOTXwnIxxJJ5Cu0VVC5OrD61lvARY047d+Cdo5O/scMMq0iXS7WmkF/XpkZYkWnoqjz8DC3lbK9cU1niGYbimKmeyAl+mh6kS37ldRuKYgV78SyJxtee2nQ4rYWl+3/wdGiPV2XqlaCiHuGuMGEIr/kt3ZcnOzLBLGAGj3sB/ukb31OXG9di+VP5+VELC1L6YseameLDVN2muQBCUtg6F/EEOTWb0IIp8jMyUpgW+2htpwpf+GQ5uM//8wWNijJQ1kWpHflIjwRuiYf0wJlsV373CS/JzqSt3DKiJlt4c4w8f89vQ6/ofHxe8//aZQmwlcagHlYLxOlcrOarvg5T1WQhne3thxbcmw9lJvC/MM5FELhScpFMVgvBAT1XIgaohFBr2kKR7lPXuy5B+P8pTbsVU61GAOJNjgcu65Vhtv2Y1DROCnh63D84h2MPyp1FYnPdAF9wxCXU/MoWog30EJ8uVBIRkQ1G+3qGRCcX637fp764Rs0aqEm6PTlm2GKwPEnkOR+aKCBXQ+kZO36R2wdIn4rT1m8hKZYZq1LXzH78LZz3QP84uC9APbdI="
+}
