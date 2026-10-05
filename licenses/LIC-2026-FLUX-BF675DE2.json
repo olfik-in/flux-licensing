@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "licenseId": "LIC-2026-FLUX-BF675DE2",
+  "productId": "olfik-flux",
+  "issuedAt": "2026-10-05T14:11:03.086Z",
+  "kid": "flux-rsa-2026-v1",
+  "kdf": {
+    "algorithm": "argon2id",
+    "params": {
+      "iterations": 3,
+      "memorySize": 65536,
+      "parallelism": 1,
+      "keyLength": 32
+    },
+    "salt": "Tf74Bmo/N99DjZhyxsEkrw=="
+  },
+  "encryption": {
+    "algorithm": "aes-256-gcm",
+    "iv": "H08FKDvai+sMSpzf",
+    "tag": "+jve+uy07Aas0O5wwelikA=="
+  },
+  "ciphertext": "f2T+EvuvOPV5+ocNzjZO2RnJX/ABpkEY9OvFdbQd8kZO0m36z81TMFzK30kuPwFnhzgVIkkCNhVCThLs1xUDl9ighpfX612UUW2lOebe+eAyZa29XodhszqKCDS98jx6hVjoFavmVBZVptXF43eqoeAh70Q+VAfjUfXZU5BaKIUT1ykttgXptb+IpuBBkVrlLO8XyWInFqozxQawSBWFxQ8miqCDpNzVdmwT+CpVFJQu8YMunVpTlfETlhz9WkE+yl9NBI23VlciW8tsb2gR7RqfmAgC51mqILMy5TZC+I8YwZPRTcnrZCiNGxjhTcLWzdy4VXX+o6mht5IoboVxSNKAcL4cznkITusNUeKMJ+phPke/p8HtBBZYv9AaQZ5w1vo5Seus8dmqiqd3zPINntHE7lCCR/M02lkt7mdo3YDqcDmGbu6DAyWkKhzqymx7RE3Uo7OvIOgVpjw5hC0OdfNNOZCDX0cXIVXeR8LCvJCWZLmvOLZILJ/2fGPhG+FvBv8/r8Ycaoxx8fditqXmATW7kcTeDiafR1yG5UI+K0T54bqR7UKXNeiHhQqKj2hN42ozlm6UVPfGXw0TjRocs1BzMgDFmCe5gWeSZi7D8HXyNfhZ8EDqljsBrnOmCPWIohqs3dYe8uBi8k+NYEZjRrQ3udsZUYuyE8PjYWB7ACvyQWDd6WWt68IXXoZ0hqr5A2BmS5PTMCqTUpQ4VhrPOH2o97QzvbB/VZ/bGIORuS9e6ZsrD8aNBepZMu7jDMt2TA379+10A2LKYXlMZKfIJHNAlO3AgHm2MJCJLvjk2J0N2Hv5VgQXUpXCe+Gl+ij1YJGuYEpnkdKUa3Zlue+YdJ9SMgAcfRlEDWIcXdkZmQppUQUK4YU1H7d3yGRJ8BAB5DMrh/V+qCxxjMkA7+BRwGDf+d7c6tX+CBghNxNkT7Rbp1IfZd5EH6H6e4ij1NYPuatjRrvDJW2aRPkDbFWOb6RGr9I94xEWO/meKg==",
+  "signature": "Tuol3v3gfPPoZW0+IjuMlWrbnhx2ZbO6eVR3cazVF41gAUaNz1TxmFx2t4C937u5KdX7iyBaESiJcDk4b7+c8f1+wEvTe89ZyBE4KhhRfvPcM4h368JHCj7PHcV21p+vneGHVFc4+bvLXFcEdWw/w05+8q+XqUeJrruUZjTGkTZakaq9PM57hHMvDWweSr0ub4TT3qPS72W14gPrnXMXE2jNMcrof+jWbONuRTUfG59qOgWXSyFgq8KXFOT3bd66XaDs0sCz1N5qDgDswflscJQ3ZoKDp4ot+WSxdn0R6sA0aF3GC9IYzk7EF7x14wY+F4AeJ/kfsrhbPqX3sFB0+2iEMGwpLcxQKmqQUL0jtZ3VyQHiXpb3075UNq3pt3unWmI31yJvPSoaPWYZpVEdZILe/cq01fr1NRTiTBWSptdDZ/pUv2BxAYrpVkQX9YINoLSxmwWmmXyNOIzZ8FZRIQDuTL2yGAKDwfq9/B4KjUe/t+lOJrjbF7go5QnjUK91PzQxXS/x0Mkl0vnNdNXzJSNUwq4gA/XI744tUstY/ligXeOEWs6whEcP9YOBW4GoA4N2VmzvY6swCauFCu3xwIotfVzNqSuV5Fag+LsHihbd+4Lf9Ic9aqLMrwqZibsLRhJPfFwN1zFSbdiDiln8ZNsh6SWYKpfXV+/c5xziIq0="
+}
